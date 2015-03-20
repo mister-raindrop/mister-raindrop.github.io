@@ -3,11 +3,14 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+- title: Photography
+  url: /photography/
 
-- title: Blog
-  url: /blog/
+- title: Programming
+  url: /programming/
+
+- title: Other
+  url: /other/
 
 - title: Search
   url: /search/
