@@ -3,7 +3,7 @@
 title: fatpixels
 locale: en_US
 description: 
-logo: site-logo.png
+logo: bloglogo.jpg
 search: true
 url: http://fatpixels.me
 
@@ -31,9 +31,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Krishnashish Gogoi
-  avatar: bio-photo.jpg
-  email: minifr3ak [at] gmail [dot] com
+  name: Alvina Joshi & Krishnashish Gogoi
+  avatar: alvkri-bio.jpg
+  email: alvina.joshi177 [at] gmail [dot] com
   disqus-shortname: fatpixels
   twitter:
   facebook:
