@@ -4,6 +4,9 @@ title: "Hello World"
 modified:
 categories: programming
 excerpt:
+author: krishna_gogoi
+comments: true
+share: true
 tags: []
 image:
   feature:
