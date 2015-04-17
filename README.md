@@ -1,3 +1,15 @@
+# Fatpixels
+
+This repo is for the blog at http://fatpixels.me. It's a dual-authored blog by Alvina Joshi and me on photography and programming.
+
+Original repo is from the so-simple theme repo. I have left the rest of the README as it was but turned it into a standalone
+repo for the blog that I maintain myself. 
+
+
+
+
+---
+
 # So Simple Theme
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
