@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Alvina Joshi & Krishnashish Gogoi
-  avatar: alvkri-bio.jpg
+  avatar: alvkri_bio.jpg
   email: alvina.joshi177 [at] gmail [dot] com
   disqus-shortname: fatpixels
   twitter:
