@@ -3,7 +3,7 @@ layout: page
 title: About Fatpixels
 excerpt: "Fatpixels is a dual-authored blog for photography, programming and everything in between."
 image:
-  feature: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
+  feature: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg~original
   credit: Alvina Joshi
   creditlink: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
 ---
