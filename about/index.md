@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
-modified: 2014-08-08T19:44:38.564948-04:00
+title: About Fatpixels
+excerpt: "Fatpixels is a dual-authored blog for photography, programming and everything in between."
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
+  credit: Alvina Joshi
+  creditlink: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
 ---
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
