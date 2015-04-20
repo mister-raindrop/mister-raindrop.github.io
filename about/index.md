@@ -25,7 +25,7 @@ You can find Alvina's bucket of photos here (updated whenever she takes new pict
 
 You can find Krishnashish's Github profile here: [Github](https://github.com/mister-raindrop)
 
-If you feel like donating for cake or coffee (or both) sometime:
+If you feel like donating for cake or coffee (or both) sometime:<br>
 BTC address - 1HAQXgz1idptdjH5iGuj93SEHkJj6kdgMe
 
 
