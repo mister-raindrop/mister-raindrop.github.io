@@ -8,18 +8,23 @@ image:
   creditlink: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Fatpixels is a blog about personal experiences with photography and programming, authored by
+Alvina Joshi and Krishnashish Gogoi. While these two topics are the main focus of the blog, there
+will occasionally (read as most-of-the-time) be posts pertaining to other things as well. You may
+find informative posts, but take care that most of these posts are from the authors' personal
+experiences, successes and failures. So, take them with a pinch of salt as some of the more informative
+posts might not exactly apply to you in the same manner. Rest assured, the authors try their
+best to make the posts interesting and useful. The authors hope that you have as much fun
+reading this blog as they have writing it.
 
-## So Simple Theme is all about:
+This blog is currently running on Github pages using Jekyll. The theme for the current look is
+the [so-simple-theme](http://mmistakes.github.io/so-simple-theme/) by Michael Rose.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+You can find Alvina's bucket of photos here (updated whenever she takes new pictures): [Photobucket](http://s1381.photobucket.com/user/Alvina_Joshi/library/).
+You can find Krishnashish's Github profile here: [Github](https://github.com/mister-raindrop)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+If you feel like donating for cake or coffee (or both) sometime -
+BTC address: 1HAQXgz1idptdjH5iGuj93SEHkJj6kdgMe
 
-[^1]: Example: *domain.com/category-name/post-title*
+
+
