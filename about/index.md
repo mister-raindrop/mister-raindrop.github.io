@@ -18,6 +18,9 @@ posts might not exactly apply to you in the same manner. Rest assured, the autho
 best to make the posts interesting and useful. The authors hope that you have as much fun
 reading this blog as they have writing it.
 
+The logo for Fatpixels consists of a camera tripod enclosed in braces, which simply encapsulates
+the general idea of the content in the blog. The tripod icon is taken from [Simple Icon](http://simpleicon.com/).
+
 This blog is currently running on Github pages using Jekyll. The theme for the current look is
 the [so-simple-theme](http://mmistakes.github.io/so-simple-theme/) by Michael Rose.
 
