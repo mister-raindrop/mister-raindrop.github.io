@@ -6,9 +6,9 @@ comments: true
 share: true
 tags: [first-post]
 image:
-	feature: morning.jpeg
-	credit: Alvina Joshi
-	creditlink: http://s1381.photobucket.com/user/Alvina_Joshi/media/1_AlvinaJoshi1of1-7_zpsc9a34f3c.jpg.html
+  feature: morning.jpeg
+  credit: Alvina Joshi
+  creditlink: http://s1381.photobucket.com/user/Alvina_Joshi/media/1_AlvinaJoshi1of1-7_zpsc9a34f3c.jpg.html
 ---
 
 Hello, denizens of the Internet.
