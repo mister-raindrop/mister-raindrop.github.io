@@ -5,6 +5,7 @@ excerpt: "An old bash script that pulls insults from randominsults.net."
 share: true
 comments: true
 tags: [bash, insults, shell-scripting, linux, random]
+author: krishna_gogoi
 ---
 
 Some things in this world are 'evergreen'. And I'm not just talking about
@@ -22,7 +23,7 @@ This post isn't about any of those.
 
 Because I'm a grim little douche bag who likes adding a nice touch of finesse to
 my sarcasm-laden statements in my part-time job as a keyboard warrior, for me,
-[Random Insults])(http://randominsults.net) is an evergreen item. I tend to
+[Random Insults](http://randominsults.net) is an evergreen item. I tend to
 forget about it for months and months and suddenly I find myself back there
 again, spamming the F5 key. If you haven't checked that site out yet, go do
 it.
@@ -36,12 +37,12 @@ getting to the point, I ended up having to learn shell-scripting.
 So obviously, one of the things I wrote back then was a really small bash script
 to grab insults from this beautiful site. Now, usually, I wouldn't choose bash
 for this task but I went ahead and checked the source for that site. Thankfully,
-the insult was inside <i> tags enclosed under <strong> tags.
+the insult was inside ```<i>`` tags enclosed under ```<strong>``` tags.
 
 A little bit of thought and a sip of coffee later, I pretty much knew I could
 just curl it, grep for 'strong' to get the lines, and then use awk to parse out
-the insult by using <i> as a separator. So, I wrote up a script. And I found it
-today while scourging through my old files. Good ol' memories.
+the insult by using ```<i>``` as a separator. So, I wrote up a script. And I
+found it today while scourging through my old files. Good ol' memories.
 
 Here's the script. It still surprisingly works.
 
