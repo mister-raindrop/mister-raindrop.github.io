@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World"
+excerpt: "Hello, denizens of the Internet."
 categories: other
 comments: true
 share: true
