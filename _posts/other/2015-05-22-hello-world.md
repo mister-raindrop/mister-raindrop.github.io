@@ -18,7 +18,7 @@ With humble yet delayed beginnings, we finally decided to write the first post
 for this blog. Nothing special, just a little bit about what's about to come
 and everything.
 
-If you haven't checked the [About][http://fatpixels.me/about/] page yet, we'd
+If you haven't checked the [About](http://fatpixels.me/about/) page yet, we'd
 recommend you starting there. It has a short description about the blog, so
 it'll give you the general idea.
 
@@ -37,7 +37,7 @@ from letting us know in the post by using the comment section.
 The feature image for this post is by Alvina herself. She took this about a year
 ago or so. It sort of has a 'new beginning' feeling to it, at least to me, which
 is why I feel that it makes a good feature photo for the first post in
-[fatpixels][http://fatpixels.me].
+[fatpixels](http://fatpixels.me).
 
 That's all for our first post. Keep checking back for more posts coming up!
 
