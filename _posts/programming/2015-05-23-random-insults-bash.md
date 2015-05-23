@@ -37,11 +37,11 @@ getting to the point, I ended up having to learn shell-scripting.
 So obviously, one of the things I wrote back then was a really small bash script
 to grab insults from this beautiful site. Now, usually, I wouldn't choose bash
 for this task but I went ahead and checked the source for that site. Thankfully,
-the insult was inside ```<i>`` tags enclosed under ```<strong>``` tags.
+the insult was inside `<i>` tags enclosed under `<strong>` tags.
 
 A little bit of thought and a sip of coffee later, I pretty much knew I could
 just curl it, grep for 'strong' to get the lines, and then use awk to parse out
-the insult by using ```<i>``` as a separator. So, I wrote up a script. And I
+the insult by using `<i>` as a separator. So, I wrote up a script. And I
 found it today while scourging through my old files. Good ol' memories.
 
 Here's the script. It still surprisingly works.
