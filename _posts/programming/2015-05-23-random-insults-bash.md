@@ -6,6 +6,7 @@ share: true
 comments: true
 tags: [bash, insults, shell-scripting, linux, random]
 author: krishna_gogoi
+categories: programming
 ---
 
 Some things in this world are 'evergreen'. And I'm not just talking about
