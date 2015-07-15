@@ -33,5 +33,5 @@ With %highlight:
 {% gist gist_id [filename] %}
 {% endhighlight %}
 
-With curly bracket + quotes:
+With curly bracket + quotes:  
 {{"{% gist gist_id [filename] "}}%}
