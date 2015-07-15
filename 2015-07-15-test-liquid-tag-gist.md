@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Test gist tag"
+excerpt: "Test gist tag"
+share: true
+comments: true
+author: krishna_gogoi
+categories: programming
+---
+
+Sample code highlight with indent.
+    var a = "test"
+
+Sample gist:
+{% gist 4667599 assign.worker %}
+
+Sample indented gist:
+	{% gist gist_id [filename] %}
