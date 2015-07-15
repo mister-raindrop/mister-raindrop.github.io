@@ -25,7 +25,7 @@ With %raw and %endraw:
 {% gist gist_id [filename] %}  
 {% endraw %}
 
-With back-ticks ( ` ):
+With back-ticks:
 `{% gist gist_id [filename] %}`
 
 With %highlight:
