@@ -20,7 +20,15 @@ Sample indented gist:
     
     {% gist gist_id [filename] %}
     
-With %raw and %endraw
+With %raw and %endraw:
 {% raw %}
 {% gist gist_id [filename] %}  
 {% endraw %}
+
+With back-ticks ( ` ):
+`{% gist gist_id [filename] %}`
+
+With {% highlight %}:
+{% highlight %}
+{% gist gist_id [filename] %}
+{% endhighlight }
