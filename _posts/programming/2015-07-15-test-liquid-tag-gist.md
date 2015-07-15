@@ -44,9 +44,10 @@ With raw and highlight:
 {% endhighlight %}
 
 Raw within raw:
+{% assign open = '{%' %}
 {% highlight liquid %}
 {% raw %}
 {% raw %}  
-&#123; endraw %}
 {% endraw %}
+{{open}} endraw %}
 {% endhighlight %}
