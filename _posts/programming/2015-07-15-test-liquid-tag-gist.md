@@ -32,3 +32,6 @@ With %highlight:
 {% highlight html %}
 {% gist gist_id [filename] %}
 {% endhighlight %}
+
+With curly bracket + quotes:
+{{"{% gist gist_id [filename] "}}%}
