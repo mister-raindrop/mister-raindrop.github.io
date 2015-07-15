@@ -42,3 +42,10 @@ With raw and highlight:
 {% gist gist_id [filename] %}
 {% endraw %}
 {% endhighlight %}
+
+Raw within raw:
+{% highlight liquid %}
+{% raw %}
+{% raw %}
+{% endraw %} 
+{% endhighlight %}
