@@ -46,9 +46,7 @@ With raw and highlight:
 Raw within raw:
 {% highlight liquid %}
 {% raw %}
-{% raw %}
-{% endraw %}  
-{% raw %}
-{% raw %}
-{% endraw %} 
+{% raw %}  
+&#123; endraw %}
+{% endraw %}
 {% endhighlight %}
