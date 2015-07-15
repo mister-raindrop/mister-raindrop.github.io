@@ -31,4 +31,4 @@ With back-ticks:
 With %highlight:
 {% highlight html %}
 {% gist gist_id [filename] %}
-{% endhighlight }
+{% endhighlight %}
