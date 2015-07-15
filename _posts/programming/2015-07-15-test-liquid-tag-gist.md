@@ -29,6 +29,6 @@ With back-ticks ( ` ):
 `{% gist gist_id [filename] %}`
 
 With %highlight:
-{% highlight %}
+{% highlight html %}
 {% gist gist_id [filename] %}
 {% endhighlight }
