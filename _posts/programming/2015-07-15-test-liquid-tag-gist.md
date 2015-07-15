@@ -36,7 +36,9 @@ With %highlight:
 With curly bracket + quotes:  
 {{"{% gist gist_id [filename] "}}%}
 
-With %highlight liquid:
+With raw and highlight:
 {% highlight liquid %}
+{% raw %}
 {% gist gist_id [filename] %}
+{% endraw %}
 {% endhighlight %}
