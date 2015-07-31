@@ -83,8 +83,13 @@ Code:
 {% highlight liquid %}
 {% endraw %}
 {% raw %}
+{% raw %}
+{% endraw %}
+{% raw %}
 {% gist 4667599 assign.worker %}
 {% endraw %}
+{% assign o = '{%' %}
+{{o}} endraw %}
 {% raw %}
 {% endhighlight %}
 {% endraw %}
