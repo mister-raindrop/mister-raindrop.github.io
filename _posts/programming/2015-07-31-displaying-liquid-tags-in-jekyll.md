@@ -109,7 +109,7 @@ variable interpolation
 [on this blog post](http://blog.slaks.net/2013-06-10/jekyll-endraw-in-code/).
 
 Basically, you write your raw tag inside the raw/endraw block and then, to write
-the endraw tag, you render out the '{%' characters through a variable, and then
+the endraw tag, you render out the '{' and '%' characters through a variable, and then
 write endraw %}. Basically, you're breaking it down into pieces so that it
 doesn't get processed as a liquid tag. Magical.
 
@@ -156,5 +156,5 @@ the problems.
 
 To summarise, write your liquid tags inside raw/endraw blocks. The only
 exception is the endraw tag for which you need to use a variable to write out
-the {% characters. Also, remember that your favorite code highlighter should
+the '{' and '%' characters. Also, remember that your favorite code highlighter should
 still work, so don't forget to pretty it up with crayons :3
