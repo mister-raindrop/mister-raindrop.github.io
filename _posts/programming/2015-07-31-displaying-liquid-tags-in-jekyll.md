@@ -21,9 +21,9 @@ if say, you're writing about Jekyll in your Jekyll-based blog, like I am right
 now.
 
 If you want a TL;DR version of this, read my previous test post with the gist
-tag [HERE](http://fatpixels.me/programming/test-liquid-tag-gist/) to see the
+tag [HERE](http://fatpixels.me/programming/liquid-tags-test-post/) to see the
 output and then check out the markdown
-[HERE](https://raw.githubusercontent.com/mister-raindrop/mister-raindrop.github.io/master/_posts/programming/2015-07-15-test-liquid-tag-gist.md).
+[HERE](https://raw.githubusercontent.com/mister-raindrop/mister-raindrop.github.io/master/_posts/programming/2015-07-15-liquid-tags-test-post.md).
 
 We'll be using the gist tag to show all the examples in the posts. So basically,
 if you wrote the tag directly by indenting it or using pygments to highlight it,
