@@ -114,6 +114,7 @@ write endraw %}. Basically, you're breaking it down into pieces so that it
 doesn't get processed as a liquid tag. Magical.
 
 Code:
+{% assign op = '{%' %}
 {% highlight liquid %}
 {% raw %}
 {% hightlight liquid %}
@@ -122,6 +123,8 @@ Code:
 {% raw %}
 {% raw %}
 {% endraw %}
+{{op}} raw %}
+{{op}} endraw %}
 {% raw %}
 {{openTag}} endraw %}
 {% endhighlight %}
