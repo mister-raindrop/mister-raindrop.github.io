@@ -45,8 +45,9 @@ Code:
 Output:
 {{"{% gist 4667599 assign.worker "}}%}
 
-That renders out fine. The trick here is that you need to put {{" before the
-opening liquid tag and "}} before the closing tag. It looks a bit messy though.
+That renders out fine. The trick here is that you need to put the opening curly braces
+and quote before the opening liquid tag and the closing curly braces and quote  before
+the closing tag. It looks a bit messy though.
 
 A second and more cleaner method is using the **raw** and **endraw** tags. This
 was the reason why these tags were introduced in the first place. Any liquid
