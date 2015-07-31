@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Test gist tag"
-excerpt: "Test gist tag"
+title: "Testing different ways of rendering raw liquid tags"
+excerpt: "A sample post to see the various ways in which liquid tags can be displayed in Jekyll."
 share: true
 comments: true
 author: krishna_gogoi
