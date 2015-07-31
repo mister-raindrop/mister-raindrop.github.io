@@ -85,9 +85,6 @@ Code:
 {% raw %}
 {% raw %}
 {% endraw %}
-{% raw %}
-{% gist 4667599 assign.worker %}
-{% endraw %}
 {% assign o = '{%' %}
 {{o}} endraw %}
 {% raw %}
@@ -97,9 +94,7 @@ Code:
 
 Output:
 {% highlight liquid %}
-{% raw %}
-{% gist 4667599 assign.worker %}
-{% endraw %}
+
 {% endhighlight %}
 
 Beautiful :'3
@@ -119,7 +114,6 @@ write endraw %}. Basically, you're breaking it down into pieces so that it
 doesn't get processed as a liquid tag. Magical.
 
 Code:
-{% assign open = '{%' %}
 {% highlight liquid %}
 {% raw %}
 {% hightlight liquid %}
@@ -129,11 +123,6 @@ Code:
 {% raw %}
 {% endraw %}
 {% raw %}
-{% raw %}
-{% endraw %}
-{{open}} endraw %}
-{% raw %}
-{% gist 4667599 assign.worker %}
 {{openTag}} endraw %}
 {% endhighlight %}
 {% endraw %}
@@ -144,9 +133,6 @@ Output:
 {% assign openTag = '{%' %}
 {% raw %}
 {% raw %}
-{% endraw %}
-{% raw %}
-{% gist 4667599 assign.worker %}
 {% endraw %}
 {{openTag}} endraw %}
 {% endhighlight %}
