@@ -45,7 +45,7 @@ easy way out. Welcome to
 Just go to that page and select the feed.xml you want. There's four different
 feed.xml files there catering to different needs. I just stuck to the default
 feed.xml, though you can use the others as a starting template to modify and
-cook yourselves your own. Once you choose the one need, just put the contents
+cook yourselves your own. Once you choose the one you need, just put the contents
 into the feed.xml in your site root. Done.
 
 That's basically all to it. Almost too easy. If you're using Github pages, just
