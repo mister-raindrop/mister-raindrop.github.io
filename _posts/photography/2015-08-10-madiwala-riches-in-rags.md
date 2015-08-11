@@ -8,7 +8,7 @@ categories: photography
 author: krishna_gogoi
 tags: [photography, street-photography, markets, bangalore]
 image:
-  feature: http://i.imgur.com/rUkJtIc.jpg
+  feature: feat_madiwala.jpg
   credit: Alvina Joshi
   creditlink: http://s1381.photobucket.com/user/Alvina_Joshi
 ---
