@@ -125,7 +125,7 @@ were resting in between.
 <a href="http://i.imgur.com/QJGneuZ.jpg"><img src="http://i.imgur.com/QJGneuZ.jpg"
 alt="image"></a>
 <figcaption>She personally loves this one a lot.</figcaption>
-</figure><br><br>
+</figure>
 
 <figure>
 <a href="http://i.imgur.com/dWSWXUN.jpg"><img src="http://i.imgur.com/dWSWXUN.jpg"
@@ -149,9 +149,15 @@ alt="image"></a>
 <figcaption>Knives and a puff</figcaption>
 </figure>
 
-After a short avalanche of pictures with the nearby sellers, we finally arrived at
-the seller who gave us the feature image for this post, and is also one of her
-favorite photos from the day. Scroll up to the top of this post to see it!
+After a short avalanche of pictures with the nearby sellers, we finally arrived at an
+old seller who was coaxed into getting his picture clicked by the sellers around him.
+Alvina really really loves this picture and it's one of her favorites from the day.
+
+<figure>
+<a href="http://i.imgur.com/rUkJtIc.jpg"><img src="http://i.imgur.com/rUkJtIc.jpg"
+alt="image"></a>
+</figcaption>An old seller - Madiwala</figcaption>
+</figure>
 
 A short walk after that, our trip finally ended. All in all, I would say it was
 pretty damn good and insightful, especially for Alvina. I'm no photography guy, but
