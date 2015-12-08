@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Personal Banter-y Book Review: Node.js in Practice"
+title: "Personal Ranting Book Review: Node.js in Practice"
 excerpt: "A personal and biased review on one of my favorite Node.js books,
-written by Marc Harter and Alex Young. Warning: Bantering Inside."
+written by Marc Harter and Alex Young. Warning: Ranting Inside."
 share: true
 comments: true
 tags: [node, nodejs, node.js, javascript, node.js in practice, manning, book, review]
