@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Personal Book Review: Node.js in Practice"
+title: "Personal Banter-y Book Review: Node.js in Practice"
 excerpt: "A personal and biased review on one of my favorite Node.js books,
 written by Marc Harter and Alex Young. Warning: Bantering Inside."
 share: true
@@ -126,4 +126,4 @@ I think it's a great book, especially if you're trying to get into learning the 
 core. It has a lot of code and very little fluff with easy chunks of information and code.
 
 I decided to re-read it to reinforce some of the basics these past two weeks, probably
-the most productive I've been without a proper internet connection. 
+the most productive I've been without a proper internet connection.
