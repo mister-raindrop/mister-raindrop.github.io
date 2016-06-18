@@ -4,7 +4,7 @@ title: "Rant about Javascript taking my time and #100DaysOfCode ||  Day #1 Updat
 excerpt: "My #100DaysOfCode starts today. I'm breaking a few rules of the original challenge, but I'm learning what I wanted to from a long time. A bit of ranting inside about Javascript."
 share: true
 comments: true
-tags: [haskell, python, algorithm, #100daysofcode]
+tags: [haskell, python, algorithm, 100daysofcode]
 author: krishna_gogoi
 categories: programming
 ---
