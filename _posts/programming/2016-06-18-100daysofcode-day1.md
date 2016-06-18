@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Rant about Javascript taking my time and #100DaysOfCode  -- Day #1 Updates"
-excerpt: "My #100DaysOfCode starts today. I'm breaking a few rules of the original challenge, but I'm learning what I wanted to
-from a long time. A bit of ranting inside about Javascript."
+excerpt: "My #100DaysOfCode starts today. I'm breaking a few rules of the original challenge, but I'm learning what I wanted to from a long time. A bit of ranting inside about Javascript."
 share: true
 comments: true
 tags: [haskell, python, algorithm, #100daysofcode]
