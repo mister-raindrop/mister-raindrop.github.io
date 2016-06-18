@@ -120,7 +120,7 @@ head for quite some time. Haskell has always been there, I've attempted it befor
 Haskell. But I've been out of shape for a long time, so I'm going to empty myself and attempt this as if I'm starting
 now. I wanna learn from the beginning and this time, do it with a proper structure.
 
-For that purpose, I even bought a copy of [Haskell from First Principles](http://haskellbook.com). It costed me $60,
+For that purpose, I even bought a copy of [Haskell from First Principles](http://haskellbook.com). It cost me $60,
 more than my copy of Overwatch ($40), and I have huge expectations from the book. All the reviews so far have been
 amazing about the book and I like the content covered in it. It's quite thick at around 1.2k pages, so I'm expecting
 to do a lot of reading.
