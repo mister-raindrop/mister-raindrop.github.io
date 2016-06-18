@@ -43,7 +43,7 @@ more Javascript would probably help me out a lot.
 
 But I wanted to take things a different direction. Lately I've been feeling a bit saturated with
 Javascript and everything about it that's out there. Don't get me wrong, I love the technologies it's
-pregnant with and has given birth to in the past few years, and if it wasn't for it's broken features
+pregnant with and has given birth to in the past few years, and if it wasn't for its broken features
 and duct tapes everywhere, I'd say JS is perfect (I'm kidding, it's not). I love Node, I love D3, I love
 Meteor and React, they are interesting, amazing and put more food on my table. But I work with them
 literally everyday. And that does lead to a bit of saturation over time, especially when you keep pushing
