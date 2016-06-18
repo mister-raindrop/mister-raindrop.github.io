@@ -107,7 +107,8 @@ This also means I'll stop my Overwatch and Dota2 doses. They nerfed McCree and E
 ## Goals for my #100DaysOfCode
 
 So I have a bunch of goals I've set up in my mind for the next 100 days. I'm blogging them down so that I stick to
-the plan. My primary goals will be to:
+the plan. My primary goals will be to
+
 1. Re-learn Haskell properly and get at least to a decent level where I can start reading other people's code
 and make small programs myself.
 2. Revise algorithms, data structures and their implementations, and quite possibly learn new ones that I avoided
