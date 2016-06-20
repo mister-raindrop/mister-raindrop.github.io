@@ -227,7 +227,7 @@ If you haven't figured it out yet, the mistake is here, and similar tests:
 {'b': {'a': 1}, 'c': {'a': 2}, 'a': {'c': 2, 'b': 1}}
 {% endhighlight %}
 
-Doctest runs the code after the >>> and compares it to the result you put in the string.
+Doctest runs the code after the ```>>>``` and compares it to the result you put in the string.
 And that's where the mistake is. I put the result I got from my run of that line in the
 interactive shell. BUT, dict keys are not guaranteed to have the same order. So while
 the tests would return the same dict, the order of the keys would be different and so
