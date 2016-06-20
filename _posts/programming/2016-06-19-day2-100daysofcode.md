@@ -305,7 +305,7 @@ equality, in order to take care of the disambiguation between assigning and oper
 
 And I'm actually kinda correct. Here's what actually happened, according to the book.
 
-The += and related operators are derived from Algol-68. Algol-68 basically had a thing where it let
+The ```+=``` and related operators are derived from Algol-68. Algol-68 basically had a thing where it let
 repeated operands to be written only once. So
 ```x = x + 3``` can be written as ```x =+3```
 In the first expression, x is repeated on both signs of the = sign, so Algol-68 basically added
