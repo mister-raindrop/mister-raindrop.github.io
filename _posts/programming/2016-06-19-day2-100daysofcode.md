@@ -33,7 +33,8 @@ I realized while reading the chapter today just how much knowing the contents of
 has helped. So I decided to go back, re-read the entire thing, finish the exercises and follow the
 extra resources in the end of the chapter on Lambda Calculus.
 
-There were three, in increasing order of difficulty:
+There were three, in increasing order of difficulty
+
 * http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
 * http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf
 * http://www.paultaylor.eu/stable/prot.pdf
