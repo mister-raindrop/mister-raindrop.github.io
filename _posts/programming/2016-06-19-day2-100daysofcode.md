@@ -308,7 +308,7 @@ And I'm actually kinda correct. Here's what actually happened, according to the 
 The ```+=``` and related operators are derived from Algol-68. Algol-68 basically had a thing where it let
 repeated operands to be written only once. So
 ```x = x + 3``` can be written as ```x =+3```.
-In the first expression, x is repeated on both signs of the = sign, so Algol-68 basically added
+In the first expression, x is repeated on both sides of the = sign, so Algol-68 basically added
 some syntactic sugar to be able to skip the repeated x.
 
 Now, that feature was inherited by B, C's predecessor designed by Ken Thompson. But it basically led to the same
