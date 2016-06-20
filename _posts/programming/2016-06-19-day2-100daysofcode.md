@@ -286,9 +286,9 @@ and you should NEVER do this for any serious code. It's also bad because in a lo
 ## How the += operator came to be (at least in C)
 
  So, I read a small bit of Peter Linden's Expert C Programming: Deep C Secrets. And there was
- the history of how the += operator came to be.
+ the history of how the ```+=``` operator came to be.
 
- In my younger days, and I'm still just 21 years old, the += operator used to drive me insane.
+ In my younger days, and I'm still just 21 years old, the ```+=``` operator used to drive me insane.
  It made no sense to me and before reading about it in this book, I had absolutely no idea why
  the operator was the way it was. I also never thought of googling about it for some reason, probably
  because such thoughts mostly haunted me right before I went to sleep.
