@@ -283,7 +283,7 @@ and you should NEVER do this for any serious code. It's also bad because in a lo
  Takeaway from this is: Don't be lazy, write proper tests for your code.
 
 
- ## How the += operator came to be (at least in C)
+## How the += operator came to be (at least in C)
 
  So, I read a small bit of Peter Linden's Expert C Programming: Deep C Secrets. And there was
  the history of how the += operator came to be.
