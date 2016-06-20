@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Day 2/100 - Lambda Calculus, Python Graph class, Doctest buffoonery
-and Origins of the += operator"
+title: "Day 2/100 - Lambda Calculus, Doctest buffoonery and Origins of the += operator"
 excerpt: "Day 2 of my #100DaysOfCode. I learn some Lambda Calculus, implement a Python class
 for representing graphs using dict, write shitty doctests for it and narrate the story of how
 the += operator in C came to being."
