@@ -294,7 +294,7 @@ and you should NEVER do this for any serious code. It's also bad because in a lo
  because such thoughts mostly haunted me right before I went to sleep.
 
  But it confused me to no end. I mean, I could understand if it looked like this instead:
- ```x =+ 3```
+ ```x =+ 3```.
  That's like saying, "yeah, I want x to be incremented by 3." But that kinda brings the problem with
  signs. Does the above expression mean that x needs to be increased by 3 or  is x being assigned the
  value of (positive) 3? Becomes clearer if you see it with negative sign:
@@ -307,7 +307,7 @@ And I'm actually kinda correct. Here's what actually happened, according to the 
 
 The ```+=``` and related operators are derived from Algol-68. Algol-68 basically had a thing where it let
 repeated operands to be written only once. So
-```x = x + 3``` can be written as ```x =+3```
+```x = x + 3``` can be written as ```x =+3```.
 In the first expression, x is repeated on both signs of the = sign, so Algol-68 basically added
 some syntactic sugar to be able to skip the repeated x.
 
