@@ -35,9 +35,9 @@ extra resources in the end of the chapter on Lambda Calculus.
 
 There were three, in increasing order of difficulty
 
-* http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf
-* http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf
-* http://www.paultaylor.eu/stable/prot.pdf
+* [http://www.inf.fu-berlin.de/lehre/WS03/alpi/lambda.pdf]
+* [http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf]
+* [http://www.paultaylor.eu/stable/prot.pdf]
 
 And of course, my programmer pride led me straight into the third link. The author wasn't kidding
 about the increasing level of difficulty. I struggled to understand the first few sections in the link
