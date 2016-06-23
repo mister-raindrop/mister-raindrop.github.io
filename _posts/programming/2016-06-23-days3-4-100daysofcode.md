@@ -80,7 +80,7 @@ Think of it as: you have a set of numbers [a1, a2, a3, a4, ..., an]. And you hav
 How many ways can you use the numbers in the set to add up to N, considering that you can repeat them?
 
 So, for example, you have an amount of 5, with denominations {1,2,3}. You can come up with stuff like:
-{% highlight %}
+{% highlight text %}
 5 = 1 + 1 + 1 + 1 + 1
 5 = 3 + 2
 5 = 3 + 1 + 1
@@ -116,25 +116,25 @@ I read it, and I read the problem on binomial coefficients again.
 
 And then it finally clicked for once. If you consider it like this, **C(n, k)** is *picking k things from
 a set of n*, then the recurrence relation for it is defined as:
-{% highlight %}C(n, k) = C(n-1, k-1) + C(n-1, k) {% endhighlight %}
+{% highlight text %}C(n, k) = C(n-1, k-1) + C(n-1, k) {% endhighlight %}
 
 And the reasoning was something like this. Consider that **C(n, k)** consists of solutions of subsets
 with *k* elements in them chosen from a set of *n* elements. Now consider whether, let's say, the n*th* element
 is in these sets of not. So the solution subsets will either have the n*th* element in them or not have it.
-{% highlight %}
+{% highlight text %}
 C(n, k) = (subsets of k length with n-th item in it) + (subsets of k length without n-th item in it)
 {% endhighlight %}
 
 For the first part of it, if n*th* item is included in the subsets, out of the remaining ```n-1``` elements,
 we have to pick ```k-1``` elements (because we already included one item, the n*th* item).
-{% highlight %}
+{% highlight text %}
 C(n, k) = C(n-1, k-1) + (subsets of k length without n-th item in it)
 {% endhighlight %}
 
 For the next part, for subsets without the n*th* item in them, out of the remaining ```n-1``` elements (we are excluding
 n completely from these subsets, so the rest is ```n-1```), we have to choose *k* elements (not ```k-1``` because we didn't
 include the n*th* item in this case). So we get:
-{% highlight %}C(n, k) = C(n-1, k-1) + C(n-1, k) {% endhighlight %}
+{% highlight text %}C(n, k) = C(n-1, k-1) + C(n-1, k) {% endhighlight %}
 
 Now I dumbed everything down because that's what let me solve the coin change problem. They are pretty similar,
 at least in terms of coming up with the recurrence.
@@ -142,14 +142,14 @@ at least in terms of coming up with the recurrence.
 Consider **C(n, m)** to be the function that gives us the number of ways we can make *n* using *m* coins of
 denominations, say **D = {d1, d2, d3, ..., dm}**. Now consider making change for *n* using the last coin, d*m*.
 The solutions will either include that coin or not include it. So we have:
-{% highlight %}C(n, m) = (solutions with dm included) + (solutions with dm excluded) {% endhighlight %}
+{% highlight text %}C(n, m) = (solutions with dm included) + (solutions with dm excluded) {% endhighlight %}
 
 To be clear, let's suppose our denominations are *{1, 2, 3}* and we have to make change for an amount of 5.
 Consider the denomination of 3 now. We can have solutions with 3, *{3 + 2}* and *{3 + 1 + 1}*; and solutions without 3,
 *{1 + 1 + 1 + 1 + 1}*, *{1 + 1 + 1 + 2}*, *{1 + 2 + 2}*. If you notice, they are also the only way to create 5. So, I knew
 I was getting there. Formulating the rest of the recurrence was easy and similar to the binomial coefficients problem.
 For the part of solutions without d*m* in it, we get:
-{% highlight %}
+{% highlight text %}
 C(n, m) = C(n, m-1) + (solutions with dm in it)
 {% endhighlight}
 
@@ -157,7 +157,7 @@ C(n, m) = C(n, m-1) + (solutions with dm in it)
 for *n* with all the other coins (*m* coins in total, so *m-1* other coins), or you can say, we are trying to make change with the first *m-1* coins from the given denominations.
 
 For the last part of it, I figured it'd be something like this:
-{% highlight %}
+{% highlight text %}
 C(n, m) = C(n, m-1) + C(..., m)
 {% endhighlight %}
 
@@ -176,7 +176,7 @@ So, recursively, we just have to find the number of ways to make *2* with the gi
 
 Yes, I had to dumb it down so much after crying a sea of salty tears (which they now call the Dead Sea by the way) to finally
 find the recurrence, which gives us all the ways to make *n*.
-{% highlight %}
+{% highlight text %}
 C(n, m) = C(n, m - 1) + C(n - D[m], m)
 {% endhighlight %}
 
