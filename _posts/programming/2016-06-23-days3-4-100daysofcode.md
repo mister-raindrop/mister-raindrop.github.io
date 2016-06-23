@@ -151,7 +151,7 @@ I was getting there. Formulating the rest of the recurrence was easy and similar
 For the part of solutions without d*m* in it, we get:
 {% highlight text %}
 C(n, m) = C(n, m-1) + (solutions with dm in it)
-{% endhighlight}
+{% endhighlight %}
 
 *m-1* above because we have one coin less in there, the d*m* coin is excluded. Basically, we are trying to make change
 for *n* with all the other coins (*m* coins in total, so *m-1* other coins), or you can say, we are trying to make change with the first *m-1* coins from the given denominations.
