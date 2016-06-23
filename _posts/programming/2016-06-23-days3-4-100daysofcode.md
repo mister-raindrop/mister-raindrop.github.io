@@ -171,7 +171,7 @@ solutions include d*m* in them, we only find solutions recursively for the rest 
 denominations, and we end up with all the solutions that make up *n* with d*m* included.
 
 For example, in the considered example a few paragraphs above, our possible solutions with 3 included were *{3 + 2}*
-and *{3 + 1 + 1}*. Consider the terms without the 3, we end up with ```1 + 1 = 2``` and just *2*, which is also ```5 (our n) - 3``.
+and *{3 + 1 + 1}*. Consider the terms without the 3, we end up with ```1 + 1 = 2``` and just *2*, which is also ```5 (our n) - 3```.
 So, recursively, we just have to find the number of ways to make *2* with the given denominations to find the solutions subset.
 
 Yes, I had to dumb it down so much after crying a sea of salty tears (which they now call the Dead Sea by the way) to finally

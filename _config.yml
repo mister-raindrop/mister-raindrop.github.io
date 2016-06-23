@@ -12,7 +12,7 @@ url: http://fatpixels.me
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rogue
 sass:
   sass_dir: _sass
   style: compressed
@@ -50,5 +50,5 @@ owner:
     analytics: UA-53251016-1
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
