@@ -63,7 +63,7 @@ but to the composing ```.``` (it is a function after all). So we essentially get
 {% highlight haskell %}
 reverse . [1, 3, 5..19]
 {% endhighlight %}
-The . expects two functions to be composed as arguments, the wrong snip gives it a value as the second
+The ```.``` expects two functions to be composed as arguments, the wrong snip gives it a value as the second
 argument, not a function.
 
 The reason this behaviour occurs is because function application (whitespace) has the highest precedence in Haskell.
@@ -106,13 +106,13 @@ a = sizeof b
 
 Or even something that looks like this:
 {% highlight C %}
-a = sizeof *b
+a = sizeof * b
 {% endhighlight %}
 
-In the first, sizeof gives the size of the variable b; in the next, b is a pointer, so sizeof returns what's stored at
+In the first, ```sizeof``` gives the size of the variable b; in the next, b is a pointer, so ```sizeof``` returns what's stored at
 the address pointed to by b.
 
-But basically, sizeof doesn't need the brackets always and it's not a function but an operator. The brackets are needed
+But basically, ```sizeof``` doesn't need the brackets always and it's not a function but an operator. The brackets are needed
 though if you are giving it a type. Very minor thing, but I'm surprised I didn't know it for so long, and the most glaringly
 obvious reasoning I have for that is that almost all uses I've seen and done involves the type, so I pretty much came to
 believe that it's a function.
