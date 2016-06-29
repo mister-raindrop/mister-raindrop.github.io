@@ -12,7 +12,7 @@ url: http://fatpixels.me
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rogue
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
