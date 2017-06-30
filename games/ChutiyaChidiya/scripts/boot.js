@@ -1,6 +1,6 @@
 var bootState = {
     preload: function () {
-        game.load.image('progressBar', 'http://fatpixels.com/games/ChutiyaChidiya/assets/progressBar.png');
+        game.load.image('progressBar', 'http://fatpixels.me/games/ChutiyaChidiya/assets/progressBar.png');
     },
 
     create: function () {
