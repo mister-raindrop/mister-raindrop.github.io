@@ -38,10 +38,9 @@ var loadState = {
     },
 
     create: function () {
-        game.time.events.add(1000, this.nextState, this);
-
         this.chutiyaMelody = game.add.audio('chutiyamelody', 0.3, true);
         this.chutiyaMelody.play();
+        game.time.events.add(1000, this.nextState, this);
     },
 
     nextState: function () {
