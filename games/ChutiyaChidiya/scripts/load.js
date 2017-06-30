@@ -10,6 +10,21 @@ var loadState = {
         progressBar.anchor.setTo(0.5, 0.5);
         game.load.setPreloadSprite(progressBar);
 
+        var spritebgText = "Sprite and Background assets from opengameart.com [bevouliin.com].\n";
+        this.spritebgAssets = game.add.text(game.world.centerX, game.world.centerY + 150, spritebgText, {
+            font: "16px 'Comic Sans MS'",
+            fill: "#ffffff"
+        });
+        this.spritebgAssets.anchor.setTo(0.5, 0.5);
+
+
+        var soundcredText = "Sound assets from freesound.org.\n";
+        this.soundAssets = game.add.text(game.world.centerX, game.world.centerY + 180, soundcredText, {
+            font: "16px 'Comic Sans MS'",
+            fill: "#ffffff"
+        });
+        this.soundAssets.anchor.setTo(0.5, 0.5);
+
         game.load.image('chutiyalogo', 'http://fatpixels.me/games/ChutiyaChidiya/assets/chutiyalogo.png');
         game.load.spritesheet('chutiya', 'http://fatpixels.me/games/ChutiyaChidiya/assets/chutiyasheet.png', 118, 84);
         game.load.image('pipe', 'http://fatpixels.me/games/ChutiyaChidiya/assets/pipe.png');
@@ -27,21 +42,6 @@ var loadState = {
 
         this.chutiyaMelody = game.add.audio('chutiyamelody', 0.3, true);
         this.chutiyaMelody.play();
-
-        var spritebgText = "Sprite and Background assets from opengameart.com [bevouliin.com].\n";
-        this.spritebgAssets = game.add.text(game.world.centerX, game.world.centerY + 150, spritebgText, {
-            font: "16px 'Comic Sans MS'",
-            fill: "#ffffff"
-        });
-        this.spritebgAssets.anchor.setTo(0.5, 0.5);
-
-
-        var soundcredText = "Sound assets from freesound.org.\n";
-        this.soundAssets = game.add.text(game.world.centerX, game.world.centerY + 180, soundcredText, {
-            font: "16px 'Comic Sans MS'",
-            fill: "#ffffff"
-        });
-        this.soundAssets.anchor.setTo(0.5, 0.5);
     },
 
     nextState: function () {
