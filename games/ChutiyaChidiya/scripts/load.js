@@ -10,16 +10,16 @@ var loadState = {
         progressBar.anchor.setTo(0.5, 0.5);
         game.load.setPreloadSprite(progressBar);
 
-        game.load.image('chutiyalogo', '../assets/chutiyalogo.png');
-        game.load.spritesheet('chutiya', '../assets/chutiyasheet.png', 118, 84);
-        game.load.image('pipe', '../assets/pipe.png');
-        game.load.image('star', '../assets/star.png');
-        game.load.image('chutiyabg', '../assets/chutiyabg.png');
-        game.load.spritesheet('muteButtons', '../assets/mutesheet.png', 64, 64);
-        game.load.audio('chutiyajump', '../assets/sounds/breathing_jumping.wav');
-        game.load.audio('chutiyamelody', '../assets/sounds/singing_melody.wav');
-        game.load.audio('chutiyadead', '../assets/sounds/death_blood_splatter.mp3');
-        game.load.audio('chutiyahorn', '../assets/sounds/bike_horn.wav');
+        game.load.image('chutiyalogo', 'http://fatpixels.com/games/ChutiyaChidiya/assets/chutiyalogo.png');
+        game.load.spritesheet('chutiya', 'http://fatpixels.com/games/ChutiyaChidiya/assets/chutiyasheet.png', 118, 84);
+        game.load.image('pipe', 'http://fatpixels.com/games/ChutiyaChidiya/assets/pipe.png');
+        game.load.image('star', 'http://fatpixels.com/games/ChutiyaChidiya/assets/star.png');
+        game.load.image('chutiyabg', 'http://fatpixels.com/games/ChutiyaChidiya/assets/chutiyabg.png');
+        game.load.spritesheet('muteButtons', 'http://fatpixels.com/games/ChutiyaChidiya/assets/mutesheet.png', 64, 64);
+        game.load.audio('chutiyajump', 'http://fatpixels.com/games/ChutiyaChidiya/assets/sounds/breathing_jumping.wav');
+        game.load.audio('chutiyamelody', 'http://fatpixels.com/games/ChutiyaChidiya/assets/sounds/singing_melody.wav');
+        game.load.audio('chutiyadead', 'http://fatpixels.com/games/ChutiyaChidiya/assets/sounds/death_blood_splatter.mp3');
+        game.load.audio('chutiyahorn', 'http://fatpixels.com/games/ChutiyaChidiya/assets/sounds/bike_horn.wav');
     },
 
     create: function () {
