@@ -32,7 +32,11 @@ var mainState = {
 
         this.pipeGroup = game.add.group();
 
-        this.holeSize = this.chutiya.height + 40;
+        if (!game.device.desktop) {
+            this.holeSize = this.chutiya.height + 40;
+        } else {
+            this.holeSize = this.chutiya.height + 30;
+        }
         this.minPipeHeight = 160;
         this.maxPipeHeight = game.height - this.holeSize - this.minPipeHeight;
 
