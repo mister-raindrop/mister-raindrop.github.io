@@ -32,7 +32,7 @@ var mainState = {
 
         this.pipeGroup = game.add.group();
 
-        this.holeSize = this.chutiya.height + 30;
+        this.holeSize = this.chutiya.height + 40;
         this.minPipeHeight = 160;
         this.maxPipeHeight = game.height - this.holeSize - this.minPipeHeight;
 
