@@ -1,35 +1,19 @@
 ---
 layout: page
-title: About Fatpixels
-excerpt: "Fatpixels is a dual-authored blog for photography, programming and everything in between."
-image:
-  feature: paris.jpeg
-  credit: Alvina Joshi
-  creditlink: http://i1381.photobucket.com/albums/ah228/Alvina_Joshi/IMG_2226_zps5b9608ba.jpg
+title: About fatpixels
+excerpt: "fat guy writes about things...once in a while."
 ---
 
-Fatpixels is a blog about personal experiences with photography and programming, authored by
-Alvina Joshi and Krishnashish Gogoi. While these two topics are the main focus of the blog, there
-will occasionally (read as most-of-the-time) be posts pertaining to other things as well.
+Fat guy writes his fat opinions about topics that are usually far too fat for
+him to reasonably comprehend.
 
-You may find informative posts, but take care that most of these posts are from the authors' personal
-experiences, successes and failures. So, take them with a pinch of salt as some of the more informative
-posts might not exactly apply to you in the same manner. Rest assured, the authors try their
-best to make the posts interesting and useful. The authors hope that you have as much fun
-reading this blog as they have writing it.
+Hello. My name is Krishnashish Gogoi. I write about stuff here. Stuff includes
+programming, web development, game development and unnecessary opinions on
+largely unnecessary topics. I work as a game developer by day, and metamorph
+into a game developer by night. Every once in a while, I take vacations off into
+the vast jungles of the Javascript ecosystem, where I masquerade as a web developer.
+Thankfully, such vacations have been far and few lately. Yes, my life is mostly
+miserable.
 
-The logo for Fatpixels consists of a camera tripod enclosed in braces, which simply encapsulates
-the general idea of the content in the blog. The tripod icon is taken from [Simple Icon](http://simpleicon.com/).
-
-This blog is currently running on Github pages using Jekyll. The theme for the current look is
-the [so-simple-theme](http://mmistakes.github.io/so-simple-theme/) by Michael Rose.
-
-You can find Alvina's bucket of photos here (updated whenever she takes new pictures): [Photobucket](http://s1381.photobucket.com/user/Alvina_Joshi/library/).
-
-You can find Krishnashish's Github profile here: [Github](https://github.com/mister-raindrop)
-
-If you feel like donating for cake or coffee (or both) sometime:<br>
-BTC address - 1HAQXgz1idptdjH5iGuj93SEHkJj6kdgMe
-
-
-
+I don't write too often. Once every two years, I start getting dreams that I have
+a blog. That's usually when I wake up and post something here. 
