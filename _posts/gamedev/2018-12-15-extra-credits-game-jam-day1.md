@@ -95,6 +95,8 @@ some idea as to how screwed we actually are.
 
 
 Meanwhile, I took a couple of hours to prototype a few things we discussed. Here's what I have so far:
+
+
 ![Prototyping](https://media.giphy.com/media/fQlgusj9yotobJkKGt/giphy.gif)
 
 The T-Pose bot is basically standing-in till I get something better to use. It has the rim-lighting
